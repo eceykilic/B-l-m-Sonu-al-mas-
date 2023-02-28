@@ -1,2 +1,2 @@
-# B-l-m-Sonu-al-mas-
+# Bolum Sonu Calismasi
 Patika.dev, HTML eğitimi bölüm sonu çalışması.
